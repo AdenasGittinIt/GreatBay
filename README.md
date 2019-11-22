@@ -1,2 +1,2 @@
 # GreatBay
-Great Bay Activity (MSQL)
+MySQL activity
